@@ -1,6 +1,7 @@
 .Rproj.user
 .Rhistory
 .RData
+<<<<<<< HEAD
 .txt
 test/
 train/
@@ -8,3 +9,5 @@ README.txt
 activity_labels.txt
 features.txt
 features_info.txt
+=======
+>>>>>>> origin/master
