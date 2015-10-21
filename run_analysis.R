@@ -1,5 +1,6 @@
 # run analysis
 
+library(dplyr)
 feat <- read.table('features.txt')
 act <- read.table('activity_labels.txt')
 
