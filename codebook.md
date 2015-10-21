@@ -43,29 +43,29 @@ Column ID | Column Name | Notes
 "40" |"Std.Dev.Time.domain.Body.Angular.Velocity.Magnitude"|Units: Normalized radians/second
 "41" |"Mean.Time.domain.Body.Angular.Accel.Magnitude" | Units: Normalized radians/second^2
 "42" |"Std.Dev.Time.domain.Body.Angular.Accel.Magnitude"| Units: Normalized radians/second^2
-"43" |"Mean.Freq.domain.Body.Accel.X.direction"
-"44" |"Mean.Freq.domain.Body.Accel.Y.direction"
-"45" |"Mean.Freq.domain.Body.Accel.Z.direction"
-"46" |"Std.Dev.Freq.domain.Body.Accel.X.direction"
-"47" |"Std.Dev.Freq.domain.Body.Accel.Y.direction"
-"48" |"Std.Dev.Freq.domain.Body.Accel.Z.direction"
-"49" |"Mean.Freq.domain.Body.Jerk.X.direction"
-"50" |"Mean.Freq.domain.Body.Jerk.Y.direction"
-"51" |"Mean.Freq.domain.Body.Jerk.Z.direction"
-"52" |"Std.Dev.Freq.domain.Body.Jerk.X.direction"
-"53" |"Std.Dev.Freq.domain.Body.Jerk.Y.direction"
-"54" |"Std.Dev.Freq.domain.Body.Jerk.Z.direction"
-"55" |"Mean.Freq.domain.Body.Angular.Velocity.X.axis"
-"56" |"Mean.Freq.domain.Body.Angular.Velocity.Y.axis"
-"57" |"Mean.Freq.domain.Body.Angular.Velocity.Z.axis"
-"58" |"Std.Dev.Freq.domain.Body.Angular.Velocity.X.axis"
-"59" |"Std.Dev.Freq.domain.Body.Angular.Velocity.Y.axis"
-"60" |"Std.Dev.Freq.domain.Body.Angular.Velocity.Z.axis"
-"61" |"Mean.Freq.domain.Body.Accel.Magnitude"
-"62" |"Std.Dev.Freq.domain.Body.Accel.Magnitude"
-"63" |"Mean.Freq.domain.Body.Jerk.Magnitude"
-"64" |"Std.Dev.Freq.domain.Body.Jerk.Magnitude"
-"65" |"Mean.Freq.domain.Body.Angular.Velocity.Magnitude"
-"66" |"Std.Dev.Freq.domain.Body.Angular.Velocity.Magnitude"
-"67" |"Mean.Freq.domain.Body.Angular.Accel.Magnitude"
-"68" |"Std.Dev.Freq.domain.Body.Angular.Accel.Magnitude"|
+"43" |"Mean.Freq.domain.Body.Accel.X.direction" | FFT Output
+"44" |"Mean.Freq.domain.Body.Accel.Y.direction" | FFT Output
+"45" |"Mean.Freq.domain.Body.Accel.Z.direction" | FFT Output
+"46" |"Std.Dev.Freq.domain.Body.Accel.X.direction" | FFT Output
+"47" |"Std.Dev.Freq.domain.Body.Accel.Y.direction" | FFT Output
+"48" |"Std.Dev.Freq.domain.Body.Accel.Z.direction" | FFT Output
+"49" |"Mean.Freq.domain.Body.Jerk.X.direction" | FFT Output
+"50" |"Mean.Freq.domain.Body.Jerk.Y.direction" | FFT Output
+"51" |"Mean.Freq.domain.Body.Jerk.Z.direction" | FFT Output
+"52" |"Std.Dev.Freq.domain.Body.Jerk.X.direction" | FFT Output
+"53" |"Std.Dev.Freq.domain.Body.Jerk.Y.direction" | FFT Output
+"54" |"Std.Dev.Freq.domain.Body.Jerk.Z.direction" | FFT Output
+"55" |"Mean.Freq.domain.Body.Angular.Velocity.X.axis" | FFT Output
+"56" |"Mean.Freq.domain.Body.Angular.Velocity.Y.axis" | FFT Output
+"57" |"Mean.Freq.domain.Body.Angular.Velocity.Z.axis" | FFT Output
+"58" |"Std.Dev.Freq.domain.Body.Angular.Velocity.X.axis" | FFT Output
+"59" |"Std.Dev.Freq.domain.Body.Angular.Velocity.Y.axis" | FFT Output
+"60" |"Std.Dev.Freq.domain.Body.Angular.Velocity.Z.axis" | FFT Output
+"61" |"Mean.Freq.domain.Body.Accel.Magnitude" | FFT Output
+"62" |"Std.Dev.Freq.domain.Body.Accel.Magnitude" | FFT Output
+"63" |"Mean.Freq.domain.Body.Jerk.Magnitude" | FFT Output
+"64" |"Std.Dev.Freq.domain.Body.Jerk.Magnitude" | FFT Output
+"65" |"Mean.Freq.domain.Body.Angular.Velocity.Magnitude" | FFT Output
+"66" |"Std.Dev.Freq.domain.Body.Angular.Velocity.Magnitude" | FFT Output
+"67" |"Mean.Freq.domain.Body.Angular.Accel.Magnitude" | FFT Output
+"68" |"Std.Dev.Freq.domain.Body.Angular.Accel.Magnitude"| FFT Output
